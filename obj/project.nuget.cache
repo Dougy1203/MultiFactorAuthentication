@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "IrrppTPsNx/FHlY7BzK51DrCtJAO8hOwVg4awVtkG/5ZacI/xynkrSEE6bnT2U2PlsEqyVBKWOFs9kJLhWEWtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liam\\OneDrive - Neumont College of Computer Science\\Year_2\\SEN320 Enterprise Security Methodologies\\L5_MultiFactorAuthentication\\L5_MultiFactorAuthentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liam\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Liam\\.nuget\\packages\\openpop.net\\2.0.6.1120\\openpop.net.2.0.6.1120.nupkg.sha512",
+    "C:\\Users\\Liam\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.9\\microsoft.netcore.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\Liam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.9\\microsoft.windowsdesktop.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\Liam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.9\\microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\Liam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.9\\microsoft.netcore.app.host.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenPop.NET 2.0.6.1120' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenPop.NET",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
